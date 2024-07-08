@@ -4,7 +4,7 @@ import {getFirestore} from "firebase/firestore";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyAEDvVA06Lzv5T68illE4Jsw5xxe6B357Y",
+  apiKey:  process.env['FB_KEY'],
   authDomain: "harjeet-gpt-clone.firebaseapp.com",
   projectId: "harjeet-gpt-clone",
   storageBucket: "harjeet-gpt-clone.appspot.com",
