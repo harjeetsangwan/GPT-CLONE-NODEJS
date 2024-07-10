@@ -32,7 +32,9 @@ const message: Message={
   user:{
     _id:"ChatGPT",
     name:"ChatGPT",
-    avatar:"https://links.papareact.com/89k",
+    // avatar:"https://links.papareact.com/89k",
+    avatar:"https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/ChatGPT_logo.svg/1024px-ChatGPT_logo.svg.png",
+
   },
 };
 
